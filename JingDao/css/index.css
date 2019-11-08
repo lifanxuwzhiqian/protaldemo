@@ -1,0 +1,83 @@
+.nn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: white;
+
+}
+div{
+    /*border: 1px red solid;*/
+    /*width: 50px;*/
+    justify-content: space-between;
+    display: flex;
+
+}
+body{
+    background-color: #F5F0F0;
+    margin: 0;
+
+
+}
+#qq{
+    display: flex;
+    /*justify-content: center;*/
+    align-items: center;
+    flex-direction: row;
+    background-color: white;
+    width: 900px;
+}
+.logo{
+    width: 30px;
+    height: 33px;
+    background-color: red;
+}
+div button {
+    background-color: red;
+
+}
+.yy{
+    color: red;
+}
+#uu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px #F5F0F0 solid;
+    height: 30px;
+    margin-left: -100px;
+}
+.phone{
+    /*margin-left: 200px;*/
+}
+#pp{
+
+    height: 50px;
+}
+#jj{
+
+   width: 800px;
+    display: flex;
+    margin-left: 500px;
+    background-color: white;
+
+}
+.mm{
+    background-color: white;
+}
+#jj a{
+    text-decoration-line: none;
+
+}
+.kk{
+    color: red;
+}
+.ff{
+    color: #949292;
+}
+#pp div{
+    width: 30px;
+    height: 49.5px;
+
+    background-color: black;
+}
