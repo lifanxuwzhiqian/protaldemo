@@ -1,0 +1,55 @@
+#o1 {
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    z-index: 1;
+    margin-top: 40px;
+    /*border: 1px solid red;*/
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #8c8c8c;
+    opacity: .9;
+}
+#z1 {
+    width: 100%;
+    height: 300px;
+    position: absolute;
+    margin-top: 90px;
+    /*border: 1px solid red;*/
+
+}
+#z1 img {
+    width: 100%;
+    height: 100%;
+
+}
+#s1 {
+    width: 100%;
+    height: 900px;
+    position: absolute;
+    margin-top:400px;
+    /*border: 1px solid red;*/
+
+}
+.y1{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: "AR BERKLEY";
+}
+.y2{
+    display: flex;
+    justify-content: space-around;
+}
+.y3{
+    width: 170px;
+    height: 100px;
+}
+.y4{
+    width:170px;
+    height: 100px;
+}
+.y2 img{
+    width: 100%;
+    height: 100%;
+}

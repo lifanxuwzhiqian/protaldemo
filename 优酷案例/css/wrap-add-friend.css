@@ -1,0 +1,7 @@
+#wrap-add-friend{
+    height: 100%;
+    flex-grow: 1;   /*占用剩余所有*/
+    overflow-y: scroll; /*裁剪剩余内容，提供滚动显示*/
+    display: none;  /*隐藏*/
+    /*background-color: #81d3fa;*/
+}
