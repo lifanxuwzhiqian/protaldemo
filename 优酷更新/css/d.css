@@ -1,0 +1,157 @@
+#d{
+    width: 100%;
+    height:90px;
+    background-color: #0D095B;
+    position: fixed;
+    z-index: 1;
+    margin-top: -11px;
+    border: none;
+}
+/*#d{*/
+    /*position: relative;*/
+/*}*/
+
+#d1{
+   margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#d1 input{
+    width: 150px;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    background-color: #1F1865;
+    padding-left: 15px;
+}
+
+#d1-1{
+    position: absolute;
+    margin-left: -158px;
+}
+#d1-2 img{
+    width: 25px;
+    height: 25px;
+}
+#d1-2{
+    position: absolute;
+    margin-left: 50px;
+}
+#d1-3{
+    position: absolute;
+   margin-left: 150px;
+}
+#d1-4{
+    position: relative;
+    margin-left: 50px;
+}
+#tao{
+    /*background-color: red;*/
+    width: 100%;
+    height: 10px;
+}
+
+#d2{
+    display: flex;
+
+    align-items: center;
+    justify-content: space-around;
+}
+#d2 span{
+    color: whitesmoke;
+    font-size: 20px;
+}
+#d2-3{
+    width: 100%;
+    background-color: #0D095B;
+    margin-top: 75px;
+
+}
+#d2-3 img{
+    width: 100%;
+    height: 100%;
+}
+#c{
+    width: 100%;
+    /*height: 900px;*/
+    /*background-color: black;*/
+}
+.chang1{
+    width: 100%;
+    height:150px;
+    /*height: 300%;*/
+    /*background-color: #2aabd2;*/
+    display: flex;
+
+    align-items: center;
+    justify-content: space-around;
+}
+.zheng1{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+}
+.zheng1 img{
+    width: 100%;
+}
+.zheng2{
+    font-size: 20px;
+   font-weight: lighter;
+   font-family: SansSerif;
+    color: #212121;
+}
+#a{
+    width: 100%;
+    position: relative;
+}
+.a1{
+    width: 100%;
+    height: 50px;
+    position: relative;
+}
+.a1-1 video{
+    width: 100%;
+    height: 100%;
+}
+
+.a1-2{
+    width: 100%;
+    /*height: 300%;*/
+    /*background-color: black;*/
+    position: relative;
+}
+.a1-2-1 img{
+    width: 50px;
+    height: 50px;
+}
+.a1-2-1{
+    position: absolute;
+    margin-left: 10px;
+}
+.a1-2-2{
+    position: absolute;
+    margin-left: 80px;
+}
+.a1-2-3{
+    position: absolute;
+    margin-left: 220px;
+}
+.a1-2-4{
+    position: absolute;
+    margin-left: 275px;
+}
+.a1-2-5{
+    position: absolute;
+    margin-left: 320px;
+}
+.a2{
+    margin-top: 220px;
+
+}
+.a3{
+    margin-top:50px ;
+}
+.a4{
+    margin-top:50px ;
+}

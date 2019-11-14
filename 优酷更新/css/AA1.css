@@ -1,0 +1,72 @@
+/*
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+         <title></title>
+                              <style type="text/css">
+                                                    #box{
+                                                        width: 100%;
+                                                        height: 100%;
+                                                        background: url(img/999.jpg);
+
+                                                        margin: 10px auto;
+                                                        background-size:100% 100%;
+                                                        color: white;
+                                                    }
+p{
+    padding-top: 5px;
+    display: block;
+}
+#left{
+    float: left;
+}
+#right{
+    float: right;
+    display: none;
+}
+</style>
+  </head>
+
+    <body  background="img/999.jpg"
+style="background-repeat: no-repeat;background-size: 100% 100%;
+background-attachment: fixed;
+">
+<div id="box">
+             <p style="font-size: 30px;color: #212121;font-weight: 600">
+                                                                       <span id="left">
+                                                                                      剩余
+					<span id="t">5</span>
+                                                                                                                          S
+				</span>
+
+                                                                                                                                            </p>
+                                                                                                                                              </div>
+
+                                                                                                                                                <script type="text/javascript">
+                                                                                                                                                                              var time = document.getElementById("t").innerHTML;
+//			console.log(time);
+var close = document.getElementById("right");
+var bigBox = document.getElementById("box");
+var timer = setInterval(function(){
+    time--;
+    document.getElementById("t").innerHTML = time;
+if(time<=0){
+    close.style.display = 'block';
+clearTimeout(timer);
+}
+
+},1000);
+
+close.onclick = function(){
+    bigBox.style.display = 'none';
+}
+
+</script>
+
+
+  <span style="font-size:18px;"> </span><span style="font-size:24px;"><meta http-equiv="refresh" content="5;URL=DL.html"> </span>
+                                                                                                                            </body>
+                                                                                                                              </html>
+                                                                                                                                 */

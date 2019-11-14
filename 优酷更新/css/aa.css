@@ -1,0 +1,116 @@
+/*最顶端*/
+#aa{
+    display: flex;
+    justify-content: space-between;/*x轴之间留有空白*/
+    height: 40px;
+    background-color: #212121;
+    color: white;
+    font-size: 12px;
+}
+/*信号文字*/
+#bb{
+    width: 33%;
+    display: flex;
+    align-items: center;
+}
+
+.q1{
+    height: 10px;
+    width: 3px;
+    border-radius: 35%;
+    border: 1px white solid;
+    background-color: #999999;
+    margin: 1px;
+}
+.q2{
+    height: 12px;
+    width: 3px;
+    border-radius: 35%;
+    border: 1px white solid;
+    background-color: #999999;
+    margin: 1px;
+}
+.q3{
+     height: 14px;
+     width: 3px;
+     border-radius: 35%;
+     border: 1px white solid;
+     background-color: #999999;
+     margin: 1px;
+ }
+.q4{
+    height: 16px;
+    width: 3px;
+    border-radius: 35%;
+    border: 1px white solid;
+    background-color: #999999;
+    margin: 1px;
+}
+.q5{
+    height: 18px;
+    width: 3px;
+    border-radius: 40%;
+    border: 1px white solid;
+    background-color:  #999999;
+    margin: 1px;
+}
+
+#xinhao{
+    display: flex;
+    align-items: flex-end;
+}
+/*电池时间电量*/
+#right{
+
+    width: 33%;
+    display: flex;
+    justify-content: flex-end;/*水平居下*/
+    align-items: center;
+    margin-right: 20px;
+}
+
+
+#dian1{
+    height: 9px;
+    width: 25px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 4px;
+    margin-right: 5px;
+}
+
+#dian2{
+    background-color: #76ff03;
+    height: 7px;
+    width: 15px;
+
+}
+
+
+#wenzi{
+    margin-right: 6px;
+}
+
+#dian{
+    margin-right: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
