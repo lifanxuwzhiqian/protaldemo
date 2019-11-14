@@ -2,7 +2,7 @@ package com.itdr;
 
 import java.util.Scanner;
 
-public class a {
+public class A {
     public static void main(String[]args){
         Scanner input = new Scanner(System.in);//准备输入得工作
         System.out.println("请输入：");//输出语句

@@ -2,7 +2,7 @@ package com.itdr;
 
 import java.util.Scanner;
 
-public class zhou {
+public class Zhou {
     public static void main(String[]args){
         Scanner input = new Scanner(System.in);//准备输入的工作
         System.out.print("请输入数字");          //输出语句

@@ -2,7 +2,7 @@ package com.itdr;
 
 import java.util.Scanner;
 
-public class yan {
+public class Yan {
     public static void main(String[]args){
         Scanner input = new Scanner(System.in);//准备输入的工作
         System.out.print("请输入圆的半径：");     //输出语句
